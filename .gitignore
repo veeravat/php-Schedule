@@ -1,0 +1,5 @@
+vendor/
+*.lock
+*.txt
+*.bat
+src/public/fn.php
